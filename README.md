@@ -2,6 +2,8 @@
 
 This script fetches currency rates from the Central Bank of Russia for yesterday. It uses SOAP API and convert received data to JSON.
 
+https://www.cbr.ru/development/DWS/
+
 ## Install
 
 Clone repository and chdir there.
