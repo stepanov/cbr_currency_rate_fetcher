@@ -1,0 +1,13 @@
+{
+    "name": "michael/currency-rate-from-cbr",
+    "description": "Get currency rate from the CBR in JSON format",
+    "authors": [
+        {
+            "name": "Michael Stepanov",
+            "email": "michael@stepanoff.org"
+        }
+    ],
+    "require": {
+        "phpro/soap-client": "^1.3"
+    }
+}
