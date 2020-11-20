@@ -1,3 +1,5 @@
+#!/usr/bin/php
+
 <?php
 
 include('./vendor/autoload.php');
